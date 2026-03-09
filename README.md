@@ -1,10 +1,25 @@
-<!--<div align="center">
+<div align="center">
     <img width=300 src="./assets/main.gif"/>    
     <br/>
     <br/>
     <img src="https://readme-typing-svg.demolab.com?font=Itim&size=40&duration=2000&pause=3000&color=E0DFF1&center=true&repeat=false&width=600&height=60&lines=Greetings%2C+wanderer!+I'm+HELLPER!" alt="Typing SVG" />
-</div>
+
+<br/>
+
+<a href="https://t.me/HELLPER7788"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white" alt="Telegram" /></a>
+<a href="https://discord.com/users/1145303249331703869"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white" alt="Discord" /></a>
+<a href="mailto:m.ryaboshapka888@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://hellper.dev"><img src="https://img.shields.io/badge/Website-4CAF50?style=flat&logo=google-chrome&logoColor=white" alt="Website" /></a>
+
+<br/>
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=hellper-dev&data=followers,repositories,stars,commits&theme=dark)](https://github.com/Jurredr/github-widgetbox)
 
-<a href="https://www.hellper.dev"><img src="https://readme-typing-svg.demolab.com?font=Itim&size=36&duration=1&pause=3000&color=E0DFF1&center=true&repeat=false&width=600&height=60&lines=My+Socials" alt="Typing SVG" /></a>-->
+### 🛠 Tech Stack
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=java,typescript,python,spring,nodejs,postgresql,docker,git" />
+
+</div>
+
