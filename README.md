@@ -6,8 +6,8 @@
 
 <br/>
 
-<a href="https://t.me/HELLPER7788"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white" alt="Telegram" /></a>
-<a href="https://discord.com/users/1145303249331703869"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white" alt="Discord" /></a>
+<a href="https://t.me/Subarash_ii"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white" alt="Telegram" /></a>
+<a href="https://discord.com/users/1481680487113162903"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white" alt="Discord" /></a>
 <a href="mailto:m.ryaboshapka888@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://hellper.dev"><img src="https://img.shields.io/badge/Website-4CAF50?style=flat&logo=google-chrome&logoColor=white" alt="Website" /></a>
 
