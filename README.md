@@ -2,7 +2,7 @@
     <img width=300 src="./assets/main.gif"/>    
     <br/>
     <br/>
-    <img src="https://readme-typing-svg.demolab.com?font=Itim&size=40&duration=2000&pause=3000&color=E0DFF1&center=true&repeat=false&width=600&height=60&lines=Greetings%2C+wanderer!+I'm+HELLPER!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Itim&size=40&duration=2000&pause=3000&color=E0DFF1&center=true&repeat=false&width=600&height=60&lines=Greetings%2C+wanderer!+I'm+Subarashii!" alt="Typing SVG" />
 
 <br/>
 
@@ -13,7 +13,7 @@
 
 <br/>
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=hellper-dev&data=followers,repositories,stars,commits&theme=dark)](https://github.com/Jurredr/github-widgetbox)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=subarash-ii&data=followers,repositories,stars,commits&theme=dark)](https://github.com/Jurredr/github-widgetbox)
 
 ### 🛠 Tech Stack
 
