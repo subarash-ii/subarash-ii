@@ -33,13 +33,7 @@
 &nbsp;
 [![Telegram](https://img.shields.io/badge/Telegram-black?style=flat&logo=telegram)](https://t.me/Subarash_ii)
 [![Discord](https://img.shields.io/badge/Discord-black?style=flat&logo=Discord)](https://discord.com/users/1481680487113162903)
-[![Gmail](https://img.shields.io/badge/Gmail-black?style=flat&logo=gmail)](https://discord.com/users/1481680487113162903)
-[![Website](https://img.shields.io/badge/Website-black?style=flat&logo=firefoxbrowser)](https://discord.com/users/1481680487113162903)
-<!-- [![Donate](https://img.shields.io/badge/Donate-black?logo=ko-fi&logoColor=green)](https://ko-fi.com/chkndrp) 
-[![Telegram](https://img.shields.io/badge/Telegram-black?style=flat&logo=telegram)](https://t.me/chkndrp)
-[![GitLab](https://img.shields.io/badge/GitLab-black?logo=gitlab)](https://gitlab.com/chkndrp)
-[![XDA Developers](https://img.shields.io/badge/XDA_Developers-black?style=flat&logo=xdadevelopers)](https://xdaforums.com/m/chkndrp.12262335)
-[![SourceForge](https://img.shields.io/badge/SourceForge-black?logo=sourceforge)](https://sourceforge.net/u/chkndrp)
-[![Gists](https://img.shields.io/badge/Gists-black?style=flat&logo=github)](https://gist.github.com/chkndrp) -->
+[![Gmail](https://img.shields.io/badge/Gmail-black?style=flat&logo=gmail)](mailto:m.ryaboshapka888@gmail.com)
+[![Website](https://img.shields.io/badge/Website-black?style=flat&logo=firefoxbrowser)](https://hellper.dev)
 
 </div>
